@@ -1,0 +1,26 @@
+H1 {
+    display: flex;
+    justify-content: center;
+    background-color: lavender;
+}
+
+img {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.beach {
+    color: blue;
+}
+
+.park {
+    color: green;
+    display: flex;
+    justify-content: center;
+}
